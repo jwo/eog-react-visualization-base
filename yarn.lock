@@ -9049,10 +9049,10 @@ react-transition-group@^4.0.0:
     loose-envify "^1.4.0"
     prop-types "^15.6.2"
 
-react-use@^9.4.0:
-  version "9.4.0"
-  resolved "https://registry.yarnpkg.com/react-use/-/react-use-9.4.0.tgz#a0449eafdd2f8abbc31d913944aa7d4742f204ae"
-  integrity sha512-1vmODj/JCK4tPT/dncm6KuqoZF2uee+sb/JnTOASk4Xwy+FViaSFO8dm+os9idrIhbMgQSZVvU06EweMzvtKpw==
+react-use@^9.7.1:
+  version "9.7.1"
+  resolved "https://registry.yarnpkg.com/react-use/-/react-use-9.7.1.tgz#2ee7edab4cc60fee1b62f6666bbf693feb5dac8b"
+  integrity sha512-U1VTkN92zfy7gKcsxr9B+LQHUUswgfbtWwJlU9FJC8XrDcxWas16szHhBLQn290mEjerYCtsfnCJYWw7A91CxA==
   dependencies:
     copy-to-clipboard "^3.1.0"
     nano-css "^5.1.0"
