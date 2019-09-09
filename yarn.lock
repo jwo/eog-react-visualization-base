@@ -1560,11 +1560,6 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/fast-json-stable-stringify@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@types/fast-json-stable-stringify/-/fast-json-stable-stringify-2.0.0.tgz#40363bb847cb86b2c2e1599f1398d11e8329c921"
-  integrity sha512-mky/O83TXmGY39P1H9YbUpjV6l6voRYlufqfFCvel8l1phuy8HRjdWc1rrPuN53ITBJlbyMSV6z3niOySO5pgQ==
-
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.1.tgz#42995b446db9a48a11a07ec083499a860e9138ff"
@@ -4992,11 +4987,6 @@ graceful-fs@^4.1.15:
   version "4.1.15"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.15.tgz#ffb703e1066e8a0eeaa4c8b80ba9253eeefbfb00"
   integrity sha512-6uHUhOPEBgQ24HM+r6b/QwWfZq+yiFcipKFrOFiBEnWdy5sdzYoi+pJeQaPI5qOLRFqWmAXUPQNsielzdLoecA==
-
-graphql-tag@^2.10.1:
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/graphql-tag/-/graphql-tag-2.10.1.tgz#10aa41f1cd8fae5373eaf11f1f67260a3cad5e02"
-  integrity sha512-jApXqWBzNXQ8jYa/HLkZJaVw9jgwNqZkywa2zfFn16Iv1Zb7ELNHkJaXHR7Quvd5SIGsy6Ny7SUKATgnu05uEg==
 
 graphql@^14.3.1:
   version "14.3.1"
@@ -10766,16 +10756,13 @@ url@^0.11.0:
     punycode "1.3.2"
     querystring "0.2.0"
 
-urql@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/urql/-/urql-1.1.1.tgz#c89954ffd86d33a431271d331204e4801bede73d"
-  integrity sha512-aQikzyZEYtcDH5JWAM1I4c9vBZ3N9Sw7G7q0uQI18Yarux3NT/49Z1NTVCQzrk4ApoGk9tloh4R+Tjx4PoF7Ww==
+urql@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/urql/-/urql-1.5.0.tgz#3533dbbaf186fc7d965260255ecf5251ee89e455"
+  integrity sha512-tHpeTHsBw4dZu25bOVsR/uHKhXm4TU7l51ximAP1XP400cb8UIKD6CQl2Z/2CeOTbsBx9AaXSK+ejCTMS539FQ==
   dependencies:
-    "@types/fast-json-stable-stringify" "^2.0.0"
     fast-json-stable-stringify "^2.0.0"
-    graphql-tag "^2.10.1"
-    prop-types "^15.6.0"
-    wonka "^3.0.0"
+    wonka "^3.2.1"
 
 use@^3.1.0:
   version "3.1.1"
@@ -11123,10 +11110,10 @@ wide-align@^1.1.0:
   dependencies:
     string-width "^1.0.2 || 2"
 
-wonka@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/wonka/-/wonka-3.0.0.tgz#4f32a6a30e3229bae5944f002ce32d05b0423ba8"
-  integrity sha512-eDDzMU1gv1OgZG0fYom/0xi3WO4s2ILt6QvZzjcnSvFM+nzpgX4sux1+Z+LDYWhknJA9agpDADVtATZtajMtLA==
+wonka@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/wonka/-/wonka-3.2.1.tgz#f66123fabbb260f23a4e89f1526317169203e258"
+  integrity sha512-LpquZ9PJtYJ31AlMPp5tEba1y+S+wUmY7OyFLGZCmGSNO1ZOTTZGp/HbieFzP5fVJ9fWXCus3ecgDjwAssHSGg==
 
 wordwrap@~0.0.2:
   version "0.0.3"
