@@ -12,7 +12,7 @@ import { Typography } from '@material-ui/core';
 import Chip from '../../components/Chip';
 
 const client = new ApolloClient({
-  uri: 'https://react.eogresources.com/graphql',
+  uri: 'https://react-assessment.herokuapp.com/graphql',
   cache: new InMemoryCache(),
 });
 
